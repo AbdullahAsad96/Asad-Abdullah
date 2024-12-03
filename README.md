@@ -14,7 +14,7 @@
 -->
 
 
-<!-- Bio -->
+<!-- Bio 
 - **@[GitHub](https://committers.top/pakistan)** One of the most active contributors on GitHub in Pakistan, ranking **[5th](https://committers.top/pakistan#arhamansari11)**.
 - **@[LeetCode](https://leetcode.com/u/arhamansari11/)** Solved 350+ Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Provided training on Data Structures and Algorithms (DSA).
@@ -27,7 +27,7 @@
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184104356621824001/) solving 9/9 complex
 puzzles.
 - **@[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7213547594789101568/)** More than 80 WPM.
-
+-->
 #
 
 ## My Skill Set 🛠️:
@@ -86,7 +86,7 @@ puzzles.
  </td> 
 </tr>
 </table>
-
+<!--
  ## Connect with me🤝:
 <div align="center">
     <a href="https://muhammad-arham.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -164,6 +164,6 @@ puzzles.
   </a> -->
 </p>
 
-
+-->
 
 #
